@@ -3,7 +3,7 @@ a python tool for generate webp map tiles from png, jpeg and tiff images
 
 ## requirements
 * webp
-* nump
+* numpy
 * cv2 (opencv-python)
 * PIL
 * skimage
